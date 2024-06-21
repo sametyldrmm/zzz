@@ -1,0 +1,3 @@
+/home/samet/Desktop/sharedProcces/bir/build/CMakeFiles/MyExecutable.dir
+/home/samet/Desktop/sharedProcces/bir/build/CMakeFiles/edit_cache.dir
+/home/samet/Desktop/sharedProcces/bir/build/CMakeFiles/rebuild_cache.dir
